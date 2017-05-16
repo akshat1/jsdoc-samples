@@ -1,6 +1,6 @@
 # How to use JSDoc
 
-Contains JS source files, along with jsdoc configuration to illustrate usage of JSDoc. An explanation is in my blog post at [akshatsharma.com](http://www.akshatsharma.com/posts/jsdoc-howto/).
+Contains JS source files, along with jsdoc configuration to illustrate usage of JSDoc. An explanation is in my blog post at [akshatsharma.com](https://www.akshatsharma.com/posts/how%20to%20jsdoc/index.html).
 
 ## To use
 
